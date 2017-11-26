@@ -16,18 +16,6 @@
 	},
 	"BuildProducts": [
 		{
-<<<<<<< HEAD
-			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor-BildingEscape-5415.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor-BildingEscape-5415.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-BildingEscape-5415.lib",
-			"Type": "ImportLibrary"
-=======
 			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor.exe",
 			"Type": "Executable",
 			"IsPrecompiled": true
@@ -6632,7 +6620,6 @@
 		{
 			"Path": "$(EngineDir)/Content/Slate/Icons/icon_tab_WidgetReflector_40x.png",
 			"Type": "UFS"
->>>>>>> origin/master
 		},
 		{
 			"Path": "$(EngineDir)/Content/Slate/Icons/icon_undo_16px.png",

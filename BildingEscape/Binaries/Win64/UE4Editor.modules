@@ -2,10 +2,6 @@
 	"BuildId": "3709383",
 	"Modules": 
 	{
-<<<<<<< HEAD
-		"BildingEscape": "UE4Editor-BildingEscape-1922.dll"
-=======
-		"BildingEscape": "UE4Editor-BildingEscape.dll"
->>>>>>> origin/master
+		"BildingEscape": "UE4Editor-BildingEscape-650.dll"
 	}
 }
